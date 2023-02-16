@@ -160,3 +160,29 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
+ 
+  
+  
+  
+  
+  AUTHOR:Osariemen Uwuilekhue Josephine
+  This project covers:
+What API means
+What CORS means
+What is an API
+What is a REST API
+What are other type of APIs
+Which is the HTTP method to retrieve resource(s)
+Which is the HTTP method to create a resource
+Which is the HTTP method to update resource
+Which is the HTTP method to delete resource
+How to request REST API
+  
+  
+  TASK 0
+  For this project you will fork this https://github.com/alexaorrico/AirBnB_clone_v2:
+  a. Update the repository name to AirBnB_clone_v3
+  b. Update the README.md
+  
+  TASK 1
+  
